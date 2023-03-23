@@ -62,9 +62,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://htmlpreview.github.io/?https://github.com/MasterLeiva/Hello-Microverse/blob/My-Feature/website.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,6 +97,11 @@ To run the project, open the html file on your repository using your web browser
 
 To run tests, go to the github page of your repository and then go to actions, to make use of the linter.
 
+### Deployment
+
+N/A
+
+
 ## 👥 Authors <a name="authors"></a>
 
 > This is a personal project.
@@ -112,9 +115,9 @@ To run tests, go to the github page of your repository and then go to actions, t
 ## 🔭 Future Features <a name="future-features"></a>
 
 > More coming soon:
-- [ ] **[Portfolio Structure]**
-- [ ] **[CSS Flexbox]**
-- [ ] **[Javascript Integration]**
+- [ ] **Portfolio Structure**
+- [ ] **CSS Flexbox**
+- [ ] **Javascript Integration**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -141,8 +144,4 @@ I would like to thank Microverse and all its students for providing this fun exp
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This project is [MIT](./MIT.md) licensed.
